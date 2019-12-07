@@ -1,0 +1,73 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[DHT()]{DHT11}
+{DHT11} {H}umidity \& {T}emperature {S}ensor.
+\newblock Mouser Electronic - Authorized Distributor.
+\newblock Dostępny:
+  https://pl.mouser.com/ProductDetail/OSEPP-Electronics(odwiedzona:
+  27.11.2019).
+
+\bibitem[ove()]{overleaf}
+Overleaf - {L}a{T}e{X}.
+\newblock Dostępny: https://www.overleaf.com/learn (odwiedzona 27.11.2019).
+
+\bibitem[wik()]{wikibooks}
+Wikibooks - {L}a{T}e{X} - {Z}arządzanie bibliografią.
+\newblock Dostępny:
+  https://pl.wikibooks.org/wiki/LaTeX/Zarz%C4%85dzanie_bibliografi%C4%85
+  (odwiedzona: 27.11.2019).
+
+\bibitem[Kirpluk(2004)]{Kirpluk}
+Mikołaj Kirpluk.
+\newblock \emph{Podstawy akustyki}.
+\newblock NTL-M.Kirpluk, 2012-11 (popr. 2014-08) edition, 2004.
+
+\bibitem[Kusriyanto et~al.(5386)Kusriyanto, Anggara, Putra, Engineering,
+  Electrical, and Department]{Kusriyanto5386}
+Medilla Kusriyanto, Agusti Anggara, Putra, Electrical Engineering, Department
+  Electrical, and Engineering Department.
+\newblock Weather station design using iot platform based on arduino mega.
+\newblock IEEE, 5386.
+
+\bibitem[Product()]{Hubproducts}
+Hubspot Product.
+\newblock An intro to git and github for beginners (tutorial).
+\newblock Dostępny:
+  https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+  (odwiedzona 27.11.2019).
+
+\bibitem[Sweigart(2015)]{Sweigart}
+Al~Sweigart.
+\newblock \emph{Automate the Boring Stuff with Python}.
+\newblock No Starch Press, third printing edition, 2015.
+
+\bibitem[Szewczyk~W.(Kraków 2007)]{szewczyk}
+Wojciechowski~J.: Szewczyk~W.
+\newblock \emph{Wykłady z Termodynamiki z Przykładami Zadan, cz.I – Procesy
+  Termodynamiczne.}
+\newblock Uczelniane wydawnictwa Naukowo - Dydaktyczne,, Kraków 2007.
+
+\bibitem[Tex(1999)]{lm35}
+\emph{LM35 Precision Centigrade Temperature Sensors - User Manual}.
+\newblock Texas Instruments, Post Office Box 655303, Dallas, Texas 75265,
+  August 1999.
+\newblock Revised December 2017.
+
+\bibitem[Vasudha and Vashisht(5386)]{Vasudha5386}
+Dr. Vasudha and Vashisht.
+\newblock \textit{Soil Moisture, Temperature and Humidity Measurement Using
+  Arduino}.
+\newblock IEEE, 5386.
+
+\bibitem[Vel()]{VMA309}
+\emph{VMA309 ARDUINO® COMPATIBLE MICROPHONE SOUND SENSOR MODULE - User
+  Manual}.
+\newblock Velleman, Legen Heirweg 33, 9890 Gavere, Belgium.
+\newblock Strona internetowa: www.velleman.eu.
+
+\end{thebibliography}
